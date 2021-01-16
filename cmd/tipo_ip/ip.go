@@ -25,3 +25,6 @@ func main() {
 	os.Exit(0)
 
 }
+
+//executar dentro da pasta: go run ip.go (numero de ip, ex: 127.0.0.1)
+//a saida é a verificação de um ip válido passado
